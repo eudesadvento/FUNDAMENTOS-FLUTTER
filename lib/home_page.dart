@@ -7,7 +7,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Nosso primerio  APP'),
+        title: Text('Mercado Forex '),
         backgroundColor: Colors.green,
       ),
       drawer: Drawer(
